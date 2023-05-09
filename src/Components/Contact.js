@@ -24,15 +24,17 @@ class Contact extends Component {
             </div>
 
             <div className="ten columns">
-              <p className="lead">{message}</p>
+              <p className="lead">{message}         <div class="formlink">
+                You can send an anonymous message to get in contact/have nice discussion using <a href="https://forms.gle/sRadNc17A59Njtdr6">this</a> form.
+              </div></p>
             </div>
           </div>
         </Fade>
 
         <div className="row">
-          <Slide left duration={1000}>
+          {/* <Slide left duration={1000}>
             <div className="eight columns">
-              <form action="" method="post" id="contactForm" name="contactForm">
+              {/* <form action="" method="post" id="contactForm" name="contactForm">
                 <fieldset>
                   <div>
                     <label htmlFor="contactName">
@@ -93,17 +95,17 @@ class Contact extends Component {
                     </span>
                   </div>
                 </fieldset>
-              </form>
-
+              </form> */}
+          {/* 
               <div id="message-warning"> Error boy</div>
               <div id="message-success">
                 <i className="fa fa-check"></i>Your message was sent, thank you!
                 <br />
               </div>
             </div>
-          </Slide>
+          </Slide> */}
 
-          <Slide right duration={1000}>
+          {/* <Slide right duration={1000}>
             <aside className="four columns footer-widgets">
               <div className="widget widget_contact">
                 <h4>Address and Phone</h4>
@@ -115,9 +117,9 @@ class Contact extends Component {
                   <br />
                   <span>{phone}</span>
                 </p>
-              </div>
+              </div> */}
 
-              <div className="widget widget_tweets">
+          {/* <div className="widget widget_tweets">
                 <h4 className="widget-title">Latest Tweets</h4>
                 <ul id="twitter">
                   <li>
@@ -144,10 +146,13 @@ class Contact extends Component {
                     </b>
                   </li>
                 </ul>
-              </div>
-            </aside>
-          </Slide>
+              </div> */}
+          {/* </aside>
+          </Slide> */}
         </div>
+        {/* <div class="formlink">
+          You can send an anonymous message to get in contact/have nice discussion using <a href="https://forms.gle/sRadNc17A59Njtdr6">this</a>.
+        </div> */}
       </section>
     );
   }
