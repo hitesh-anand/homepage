@@ -58,6 +58,12 @@
     ],
     "work":[
       {
+        "company":"Quadeye Securities",
+        "title":"Quantitative Strategist Intern",
+        "years":"May '23 - July '23",
+        "description":"Worked on computing the Implied Volatility Surface using splines and SSVI, and used the surface to make trading strategies for European Options. Also, computed the Risk-Neutral Distribution Curve and created alphas to trade multiple underlyings. The best work experience so far! Looking to explore the industry to a greater depth in coming future!"
+      },
+      {
         "company":"Intel Corporation",
         "title":"Summer Research Intern",
         "years":"May '22 - July '22",
@@ -68,12 +74,6 @@
         "title":"Cryptoforensics and Development Intern",
         "years":"Nov '22 - Jan '23",
         "description":"Learned about the working of blockchains and its applications in bitcoin, Ethereum and hyperledger. Worked on analyzing the crypto transaction data through charts using the chartjs library of react"
-      },
-      {
-        "company":"Quadeye Securities",
-        "title":"Incoming Summer Intern",
-        "years":"May '23 - July '23 (Expected)",
-        "description":"Worked on computing the Implied Volatility Surface using splines and SSVI, and used the surface to make trading strategies for European Options. Also, computed the Risk-Neutral Distribution Curve and created alphas to trade multiple underlyings. The best work experience so far! Looking to explore the industry to a greater depth in coming future!"
       }
     ],
     "achieve":[
