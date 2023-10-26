@@ -1,21 +1,21 @@
 {
   "main": {
     "name":"Welcome to my home page!",
-    "description":"I am currently a third year undergrad majoring in Computer Science and Engineering at IIT Kanpur",
+    "description":"I am currently a final year undergrad majoring in Computer Science and Engineering at IIT Kanpur",
     "image":"profilepic.jpeg",
-    "bio":"Hey there! I am a computer science undergrad at Indian Institute of Technology(IIT), Kanpur. I am interested in fields related to applications of ML, AI and Computer vision. Besides this, I have a deep interest in learning about Cybersecurity and Algorithms. Apart from academics, I love to indulge in any kind of sports. I enjoy playing cricket, football, hockey, TT, Kabaddi and Badminton. I am fond of music too. I am an amateur guitar player and love to listen to music. I believe I have to learn a lot and I love to read books in my free time and learn something new from everyone I meet.",
+    "bio":"Hello there! I am a senior undergraduate in the Computer Science and Engineering Department at Indian Institute of Technology (IIT) Kanpur. I am highly interested in the fields related to Quantitative Research/Analysis, Applications of Machine Learning/AI, Algorithms, Cybersecurity and Blockchains. I have completed three internships so far where I have gained decent experience and exposure in the fields of Quantitative Trading (Quadeye), Software Development (Intel & C3i), ML (Intel), and Blockchains (C3i). Currently, I am working on my mathematical and problem-solving skills to get more competent in the fields of Quantitative Trading and Software Development. When I am not working, I like to indulge in sports : I play Cricket, Football, Table Tennis, Hockey, Kabaddi and Badminton. In my free time, I like to read books as well as listen to music. I try to learn something new from everyone I meet and I am really interested in having conversations related to modern technology, development, policy-making, books, spirituality, politics, and many more. Feel free to reach out and we can surely have a nice and productive conversation!",
     "contactmessage":"Meaningful discussions expand the knowledge of all the participants. Feel free to reach out if you want to have some nice conversations and discussions. The topic can be anything - fav books, music, sports, philosophy, politics, spirituality, or any other aspect of life.",
     "email": "anandhitesh03@gmail.com",
     "phone": "+91-8292919068",
     "github":"https://github.com/hitesh-anand",
-    "project":"https://drive.google.com/file/d/1v9usx6G8KrwKx4LbRpQPEUw2FhOktQqa/view?usp=sharing",
+    "project":"https://drive.google.com/file/d/1U-yYfHOmHISV0conIKdYrp_1nkAMgO7c/view?usp=sharing",
     "address":{
-      "street":"Hall 12, IIT Kanpur",
+      "street":"Hall 9, IIT Kanpur",
       "city":"Kanpur",
       "state":"Uttar Pradesh",
       "zip": "208016"
     },
-    "website": "hhttps://home.iitk.ac.in/~ahitesh20/",
+    "website": "https://hitesh-anand.github.io/homepage/",
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
@@ -61,7 +61,7 @@
         "company":"Quadeye Securities",
         "title":"Quantitative Strategist Intern",
         "years":"May '23 - July '23",
-        "description":"Worked on computing the Implied Volatility Surface using splines and SSVI, and used the surface to make trading strategies for European Options. Also, computed the Risk-Neutral Distribution Curve and created alphas to trade multiple underlyings. The best work experience so far! Looking to explore the industry to a greater depth in coming future!"
+        "description":"Worked on computing the Implied Volatility Surface using splines and SSVI, and used the surface to make trading strategies for European Options. Also, computed the Risk-Neutral Distribution Curve and created alphas to trade multiple underlyings. The best work experience so far! Looking to explore the industry by getting a full-time working opportunity in an HFT!"
       },
       {
         "company":"Intel Corporation",
@@ -126,16 +126,20 @@
         "level":"75%"
       },
       {
-        "name":"C/C++",
+        "name":"C++",
+        "level":"90%"
+      },
+      {
+        "name":"C",
         "level":"80%"
       },
       {
         "name":"ReactJs",
-        "level":"50%"
+        "level":"60%"
       },
       {
         "name":"CSS",
-        "level":"90%"
+        "level":"75%"
       },
       {
         "name":"Javascript",
@@ -152,6 +156,14 @@
       {
         "name":"Bash",
         "level":"50%"
+      },
+      {
+        "name":"Prolog",
+        "level":"70%"
+      },
+      {
+        "name":"Haskell",
+        "level":"70%"
       }
     ]
   },
