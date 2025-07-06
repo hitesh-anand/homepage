@@ -3,17 +3,17 @@
     "name":"Welcome to my home page!",
     "description":"I am currently a final year undergrad majoring in Computer Science and Engineering at IIT Kanpur",
     "image":"profilepic.jpeg",
-    "bio":"Hello there! I am a senior undergraduate in the Computer Science and Engineering Department at Indian Institute of Technology (IIT) Kanpur. I am highly interested in the fields related to Quantitative Research/Analysis, Applications of Machine Learning/AI, Algorithms, Cybersecurity and Blockchains. I have completed three internships so far where I have gained decent experience and exposure in the fields of Quantitative Trading (Quadeye), Software Development (Intel & C3i), ML (Intel), and Blockchains (C3i). Currently, I am working on my mathematical and problem-solving skills to get more competent in the fields of Quantitative Trading and Software Development. When I am not working, I like to indulge in sports : I play Cricket, Football, Table Tennis, Hockey, Kabaddi and Badminton. In my free time, I like to read books as well as listen to music. I try to learn something new from everyone I meet and I am really interested in having conversations related to modern technology, development, policy-making, books, spirituality, politics, and many more. Feel free to reach out and we can surely have a nice and productive conversation!",
+    "bio":"Hello there! I am a Quantitative Researcher at Worldquant in the Mumbai office (India). I completed my B.Tech in Computer Science and Engineering from Indian Institute of Technology (IIT) Kanpur. I am highly interested in the fields related to Quantitative Research/Analysis, Applications of ML/AI, Algorithms, Cybersecurity and Blockchains. Before starting as a full-time researcher at Worldquant, I completed three internships where I gained decent experience and exposure in the fields of Quantitative Trading (Quadeye), Software Development (Intel & C3i), ML (Intel), and Blockchains (C3i). When I am not working, I like to indulge in sports : I play Cricket, Football, Table Tennis, Hockey, Kabaddi and Badminton. In my free time, I like to read books as well as listen to music. I try to learn something new from everyone I meet and I am really interested in having conversations related to modern technology, development, policy-making, books, spirituality, politics, and many more. Feel free to reach out and we can surely have a nice and productive conversation!",
     "contactmessage":"Meaningful discussions expand the knowledge of all the participants. Feel free to reach out if you want to have some nice conversations and discussions. The topic can be anything - fav books, music, sports, philosophy, politics, spirituality, or any other aspect of life.",
     "email": "anandhitesh03@gmail.com",
     "phone": "+91-8292919068",
     "github":"https://github.com/hitesh-anand",
     "project":"https://drive.google.com/file/d/1U-yYfHOmHISV0conIKdYrp_1nkAMgO7c/view?usp=sharing",
     "address":{
-      "street":"Hall 9, IIT Kanpur",
-      "city":"Kanpur",
-      "state":"Uttar Pradesh",
-      "zip": "208016"
+      "street":"Powai Internal Road",
+      "city":"Mumbai",
+      "state":"Maharashtra",
+      "zip": "400076"
     },
     "website": "https://hitesh-anand.github.io/homepage/",
     "resumedownload":"http://timbakerdev.com",
@@ -57,6 +57,12 @@
       }
     ],
     "work":[
+      {
+        "company":"Worldquant Research",
+        "title":"Quantitative Researcher",
+        "years":"Jul '24 - Present",
+        "description":"My first full-time job as a Quantitative Researcher, working with a lots of data and mathematical models and AI. Really loving the quant industry in general and it's so fascinating sometimes that how can all the crazy money be made just using some maths and code"
+      },
       {
         "company":"Quadeye Securities",
         "title":"Quantitative Strategist Intern",
@@ -123,7 +129,7 @@
     "skills":[
       {
         "name":"Python",
-        "level":"75%"
+        "level":"90%"
       },
       {
         "name":"C++",
@@ -155,7 +161,7 @@
       },
       {
         "name":"Bash",
-        "level":"50%"
+        "level":"80%"
       },
       {
         "name":"Prolog",
